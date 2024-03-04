@@ -3,4 +3,4 @@ function greet(name) {
    return "Hello, " + name + "!";
 }
 
-console.log(greet("World")); // "Hello, World!" 출력
+console.log(greet("내이름은 해주"));
